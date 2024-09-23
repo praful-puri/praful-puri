@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-puri&label=Profile%20views&color=0e75b6&style=flat" alt="praful-puri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praful-puri" alt="praful-puri" /></a> </p>
+<p align="left"> <a href="https://github.com/praful-puri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praful-puri" alt="praful-puri" /></a> </p>
 
 - 🌱 I’m currently learning **openshift**
 
