@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-puri&label=Profile%20views&color=0e75b6&style=flat" alt="praful-puri" /> </p>
 
-<p align="left"> <a href="https://github.com/praful-puri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praful-puri" alt="praful-puri" /></a> </p>
-
 - 🌱 I’m currently learning **openshift**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/praful-puri-74047b265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praful-puri-74047b265/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
